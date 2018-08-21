@@ -1,0 +1,8 @@
+swarm:
+  datasources:
+    data-sources:
+      MyDS:
+        driver-name: mysql
+        connection-url: jdbc:mysql://localhost:3307/db1?characterEncoding=utf8&useUnicode=true&autoReconnectForPools=true&zeroDateTimeBehavior=convertToNull&useSSL=false&includeInnodbStatusInDeadlockExceptions=true
+        user-name: db1
+        password: "123456"
