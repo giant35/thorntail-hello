@@ -1,6 +1,6 @@
 # throntail(wildfly-swarm) hello world
 
-
+## debug
 ## 运行 test
 `mvn thorntail:run`
 visit http://localhost:8080/index.xhtml  (jsf)  
